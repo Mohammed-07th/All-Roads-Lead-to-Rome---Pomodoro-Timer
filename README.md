@@ -24,7 +24,7 @@ The Pomodoro Technique is a time-management method that breaks work into interva
    git clone https://github.com/<your-username>/All-Roads-Lead-to-Rome.git
 
    ⚙️ Requirements
-   Python 3.7+
-   Tkinter
+   Python 3.7 +
+   Tkinter +
    pygame
    
